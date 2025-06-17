@@ -1,0 +1,6 @@
+Data: 11/11/2023
+Inicio: 22:0
+Fim: 4:0
+Descricao: comlicenca
+Local: Square
+
